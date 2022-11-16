@@ -1,6 +1,8 @@
 <div align="center" >
   
 # Hello! I’m Andrea! 👋
+  
+*My passion for IT began when I was a child, already since then i used to tinkering with technology and electronics, until, one day, i discovered programming, a lifelong passion that I have grown up with.*
 
 ## Junior Full Stack Web Developer
   
