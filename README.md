@@ -34,7 +34,8 @@
 </div>
   
 #### What am I currently doing ...
-  
+ 
+- 🧑‍🎓 I’m currently following Develhope's Full Stack Web Developer Bootcamp
 - 🌱 I’m deepening my knowledge of React, React Native, Node.js, TypeScript, Express.js through various Bootcamps
 - 👩🏻‍💻 I'm Open to Work!
   
